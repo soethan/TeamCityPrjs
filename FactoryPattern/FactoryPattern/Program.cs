@@ -10,7 +10,7 @@ namespace FactoryPattern
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("test");
+            Console.WriteLine("test build");
             var child = new Child();
             Console.Read();
         }
